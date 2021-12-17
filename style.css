@@ -1,0 +1,31 @@
+html{
+    min-height: 100%;
+}
+body{
+    background-image: linear-gradient(#f0b76e,#cfc7b4);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#icon{
+    float: left;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+#iconDescript{
+    margin-bottom: 30px;
+}
+.block{
+    display:inline-block; 
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 0;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+}
