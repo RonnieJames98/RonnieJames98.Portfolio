@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RonnieJames98.Portfolio/static/css/main.dc39c3fd.css",
+    "main.js": "/RonnieJames98.Portfolio/static/js/main.7de34de1.js",
+    "static/media/uberz-zpa.png": "/RonnieJames98.Portfolio/static/media/uberz-zpa.58fa00c49cfb6d7fa2ea.png",
+    "static/media/clouds-social-media.png": "/RonnieJames98.Portfolio/static/media/clouds-social-media.6e0dfbe7f11963aafe2e.png",
+    "static/media/RonnieJamesEspinosa2023.pdf": "/RonnieJames98.Portfolio/static/media/RonnieJamesEspinosa2023.1154b8b13628b538d3b9.pdf",
+    "static/media/weather-app.png": "/RonnieJames98.Portfolio/static/media/weather-app.3bb82555fe0d2e912231.png",
+    "static/media/photoshop.png": "/RonnieJames98.Portfolio/static/media/photoshop.0fc61261cad71bf79069.png",
+    "static/media/react.png": "/RonnieJames98.Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/RonnieJames98.Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/RonnieJames98.Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/RonnieJames98.Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/RonnieJames98.Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/currency-converter.png": "/RonnieJames98.Portfolio/static/media/currency-converter.370c7a9f48aa10a7228d.png",
+    "static/media/logo.png": "/RonnieJames98.Portfolio/static/media/logo.9783c7a5d72c744cd737.png",
+    "static/media/javascript.png": "/RonnieJames98.Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/RonnieJames98.Portfolio/index.html",
+    "main.dc39c3fd.css.map": "/RonnieJames98.Portfolio/static/css/main.dc39c3fd.css.map",
+    "main.7de34de1.js.map": "/RonnieJames98.Portfolio/static/js/main.7de34de1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc39c3fd.css",
+    "static/js/main.7de34de1.js"
+  ]
+}
