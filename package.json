@@ -1,6 +1,7 @@
 {
   "name": "web-dev-portfolio",
   "version": "0.1.0",
+  "homepage": "https://RonnieJames98.github.io/RonnieJames98.Portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
